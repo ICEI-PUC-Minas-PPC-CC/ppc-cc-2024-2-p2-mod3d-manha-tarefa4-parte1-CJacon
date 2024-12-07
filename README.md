@@ -15,7 +15,8 @@
 
 # Documentação
 
-git add bixo.blend
+![bixo foto](https://github.com/user-attachments/assets/c87dad8c-03d0-45bb-b1b8-993617b07fde)
+
 
 # Código
 
@@ -23,4 +24,4 @@ git add bixo.blend
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+https://github.com/user-attachments/assets/e1fb207a-9a97-4941-bbb7-2ca55bf31587
