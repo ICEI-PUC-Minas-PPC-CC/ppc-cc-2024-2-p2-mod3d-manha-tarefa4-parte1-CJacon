@@ -25,6 +25,54 @@
 # Apresentação
 
 https://github.com/user-attachments/assets/e1fb207a-9a97-4941-bbb7-2ca55bf31587
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [bixo.zip](https://github.com/user-attachments/files/18061871/bixo.zip)
 
 
