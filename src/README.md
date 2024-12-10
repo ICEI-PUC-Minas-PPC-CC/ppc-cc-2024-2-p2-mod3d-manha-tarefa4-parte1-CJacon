@@ -2,10 +2,4 @@
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-p2-mod3d-manha-tarefa4-parte1-CJacon/blob/main/src/bixo.blend
