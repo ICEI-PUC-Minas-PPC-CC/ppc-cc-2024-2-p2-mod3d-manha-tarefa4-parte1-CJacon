@@ -1,6 +1,5 @@
-# TÍTULO DO PROJETO
+# Projeto feito em aula parte 1
 
-projeto feito em aula
 
 ## Integrantes
 
